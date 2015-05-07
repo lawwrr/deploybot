@@ -1,5 +1,5 @@
 # deploybot
-![Sequences shortened](https://raw.github.com/lawwrr/deploybot/master/deploybot.gif)
+![Sequences shortened. Deploy speeds may vary.](https://raw.github.com/lawwrr/deploybot/master/deploybot.gif)
 
 If you are running a critical operation (or want to make your operation look like a critical operation) you'll probably want to give advance warnings to your team before deploying and potentially locking up the codebase for a few seconds.
 
