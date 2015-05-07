@@ -1,0 +1,10 @@
+{
+  "name": "tnw-deploybot",
+  "version": "0.0.1",
+  "description": "Give notice of deploys over slack",
+  "main": "./app.js",
+  "author": "Laura gonzález, TNW team",
+  "dependencies": {
+    "slack-client": "1.4.0"
+  }
+}
